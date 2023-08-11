@@ -1,6 +1,7 @@
+  ![skeender](https://raw.githubusercontent.com/skeender/skeender/main/images/user-3-removebg-preview.png)
+
 # skeender
 
-![skeender](https://raw.githubusercontent.com/skeender/skeender/images/user-3.png)
 
 ![Website](https://img.shields.io/badge/Website-Coming%20Soon!-blue.svg?v=1)
 ![Website](https://img.shields.io/badge/Favorite%20Color-Orange-orange.svg?v=1)
